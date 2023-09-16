@@ -17,7 +17,6 @@ resource "aws_instance" "my-wish-i-can-decide" {
     #         }
 
     tags = var.tags
-
 }
 
        
