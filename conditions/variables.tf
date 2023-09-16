@@ -1,5 +1,5 @@
 variable "instance_name" {
-    default = "MongoDB"
+    default = "cart"
 }
 
 variable "ami_id" {
